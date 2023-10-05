@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Source Material
+
+https://blog.logrocket.com/build-crud-application-react-firebase-web-sdk-v9/
+
 ## Available Scripts
 
 In the project directory, you can run:
